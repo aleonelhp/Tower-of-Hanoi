@@ -23,7 +23,7 @@ A visual and interactive implementation of the classic Tower of Hanoi problem mo
 ```bash
 python TowerOfHanoi.py
 or
-ToerOfHanoi.exe
+.exe   TowerOfHanoi.exe
 ```
 
 No external dependencies required - it's a single file!
