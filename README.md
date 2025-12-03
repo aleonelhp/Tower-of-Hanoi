@@ -22,6 +22,8 @@ A visual and interactive implementation of the classic Tower of Hanoi problem mo
 ### Running
 ```bash
 python TowerOfHanoi.py
+or
+ToerOfHanoi.exe
 ```
 
 No external dependencies required - it's a single file!
